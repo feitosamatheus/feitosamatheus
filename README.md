@@ -1,26 +1,29 @@
- ### Olá, amigos! 
 
+# Olá! Eu sou Matheus Feitosa 👋🏽
 
-## Eu me chamo Matheus Feitosa 👨🏽‍💻
+### Desenvolvedor Back-end .NET | Recife, PE 🦈
 
--   Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Facir 📖
--   Moro no Brasil, pernambucano, nascido e criado na terra do frevo 🦈
--   Atualmente aberto a novas oportunidades.🔍
--   Tenho aprendido mais sobre C# para trabalhar como desenvolvedor back-end💻
-#### 📫 Como entrar em contato comigo:
+Sou um profissional com mais de 3 anos de experiência focado em **C#** e **Desenvolvimento Back-end**. Minha paixão é construir sistemas robustos, com foco em **APIs**, **Arquitetura de Microserviços** e **Otimização de Performance**.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/feitosamatheus )](https://github.com/feitosamatheus ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-feitosa-681697155/)](https://www.linkedin.com/in/matheus-feitosa-681697155)
-<!--
-**feitosamatheus/feitosamatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Minha Stack Principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagem/Framework** | C#, .NET / .NET Core |
+| **Dados** | SQL Server (Otimização de Consultas) |
+| **Arquitetura** | APIs REST, Microserviços, Monolítico, RabbitMQ |
+| **DevOps/Ferramentas** | Git, IIS, Docker |
+
+---
+
+### 📚 Formação
+
+* **Pós-graduação em Engenharia de Software** (PUC Minas - Em andamento)
+* **Análise e Desenvolvimento de Sistemas** (FACIR)
+---
+### 📫 Conecte-se Comigo!
+Estou sempre buscando novas conexões e aprendizados.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-feitosa-681697155/)](https://www.linkedin.com/in/matheus-feitosa-681697155)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/feitosamatheus )](https://github.com/feitosamatheus )
