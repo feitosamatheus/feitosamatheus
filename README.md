@@ -11,10 +11,14 @@ Sou um profissional com mais de 3 anos de experiência focado em **C#** e **Dese
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagem/Framework** | C#, .NET / .NET Core |
-| **Dados** | SQL Server (Otimização de Consultas) |
-| **Arquitetura** | APIs REST, Microserviços, Monolítico, RabbitMQ |
-| **DevOps/Ferramentas** | Git, IIS, Docker |
+| **Linguagem/Framework** | **C#**, .NET / .NET Core, ASP.NET (Web Forms/API) |
+| **Arquitetura** | APIs REST, Microserviços, Monolítico |
+| **Mensageria & Processamento** | **RabbitMQ**, Worker Services |
+| **Banco de Dados** | **SQL Server** (Otimização de Consultas, Índices), ADO.NET, EF Core |
+| **Cloud & Conteinerização** | **AWS** (EC2, Lambda), **Docker** |
+| **DevOps & Ferramentas** | **Git**, Scrum |
+| **Qualidade & Testes** | Testes Unitários, Refatoração, Code Review |
+| **Observabilidade** | Logging Estruturado, Monitoramento |
 
 ---
 
