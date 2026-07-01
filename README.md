@@ -3,7 +3,7 @@
 
 ### Desenvolvedor Back-end .NET | Recife, PE 🦈
 
-Sou um profissional com mais de 3 anos de experiência focado em **C#** e **Desenvolvimento Back-end**. Minha paixão é construir sistemas robustos, com foco em **APIs**, **Arquitetura de Microserviços** e **Otimização de Performance**.
+Sou um profissional com mais de 4 anos de experiência focado em **C#** e **Desenvolvimento Back-end**. Minha paixão é construir sistemas robustos, com foco em **APIs**, **Arquitetura de Microserviços** e **Otimização de Performance**.
 
 ---
 
